@@ -321,6 +321,10 @@ h3 {
     color: #f4433f
 }
 
+
+
+
+
 /* Media Queries */
 
 @media(max-width: 700px) {
@@ -377,4 +381,7 @@ h3 {
      .cta h1 {
         font-size: 24px;
     }
+
+     
+
 }
